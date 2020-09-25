@@ -4,7 +4,7 @@
 https://www.kaggle.com/c/m5-forecasting-accuracy/
 
 ## Description
-As a team, we have preprocessed the provided Walmart data and cleaned it up. Then, we used different time-series analysis techniques to find a patteren on the data. After that, we used multi-linear regression to predict the future prices. Finally, we compared the models predicted prices depending on RMSP and MAPE values.
+As a team, we have preprocessed the provided Walmart data and cleaned it up. Then, we used different time-series analysis techniques to find a pattern on the data. After that, we used multi-linear regression to predict future prices. Finally, we compared the models predicted prices depending on RMSP and MAPE values.
 
 ## Created Models
 ### Time-Series anaysis
